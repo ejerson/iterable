@@ -1,2 +1,2 @@
 # iterable
-Using iterable to implement the Fibonnaci sequence.
+Using iterable to implement the Fibonacci sequence.
